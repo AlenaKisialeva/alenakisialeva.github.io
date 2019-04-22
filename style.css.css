@@ -1,45 +1,45 @@
-р {
-    margin-top : 0 ;
-    нижнее поле : 12 пикселей ;
-  }
-  
-  ul {
-    margin-top : 0 ;
-  }
-  
-  h1 , h2 , h3 {
-    вес шрифта : 400 ;
-    поле : 0 ;
-  }
-  
-  h1 {
-    размер шрифта : 36 пикселей ;
-  }
-  
-  h2 {
-    размер шрифта : 32 px ;
-    граница дно : 1 точки  серых  твердое вещество ;
-    нижнее поле : 8 пикселей ;
-  }
-  
-  h3 {
-    размер шрифта : 20 пикселей ;
-  }
-  
-  #header {
-    нижнее поле : 32 пикселя ;
-    выравнивание текста : по центру ;
-  }
-  
-  .main_section {
-    нижнее поле : 24 пикселя ;
-  }
-  
-  .main_section_item {
-    нижнее поле : 16 пикселей ;
-  }
-  
-  #footer {
-    край поля : 64 пикс . ;
-    выравнивание текста : по центру ;
-  }
+p {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+ul {
+  margin-top: 0;
+}
+
+h1, h2, h3 {
+  font-weight: 400;
+  margin: 0;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 32px;
+  border-bottom: 1px grey solid;
+  margin-bottom: 8px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+#header {
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+.main_section {
+  margin-bottom: 24px;
+}
+
+.main_section_item {
+  margin-bottom: 16px;
+}
+
+#footer {
+  margin-top: 64px;
+  text-align: center;
+}
